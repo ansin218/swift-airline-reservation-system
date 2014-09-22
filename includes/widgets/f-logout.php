@@ -4,6 +4,7 @@
               <ul class="dropdown-menu" aria-labelledby="download">
                 <li><a href="bookings.php">Bookings</a></li>
                 <li><a href="changepass.php">Change Password</a></li>
+                <li><a href="settings.php">Settings</a></li>
                 <li><a href="logout.php">Logout</a></li>
               </ul>
             </li>
